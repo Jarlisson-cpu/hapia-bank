@@ -1,0 +1,978 @@
+.site,
+.site * {
+  box-sizing: border-box;
+}
+.site {
+  background: #ffffff;
+  height: 3261px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-4 {
+  background: linear-gradient(
+    180deg,
+    rgba(21, 69, 144, 1) 4.807692393660545%,
+    rgba(19, 20, 21, 1) 100%
+  );
+  width: 1440px;
+  height: 619px;
+  position: absolute;
+  left: 0px;
+  top: 92px;
+}
+.harpia-bank-um-banco-completo-para-sua-jornada {
+  color: #dddddd;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 79px;
+  top: 226px;
+}
+.harpia {
+  color: #dddddd;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 1063px;
+  top: 182px;
+}
+.bank {
+  color: #dddddd;
+  text-align: left;
+  font-family: "Inter-Italic", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  font-style: italic;
+  position: absolute;
+  left: 1098px;
+  top: 536px;
+}
+.transa-es-e-investimento-pelo-site-cart-es-com-benef-cios-exclusivos {
+  color: #dddddd;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 79px;
+  top: 378px;
+}
+.rectangle-5 {
+  background: #3f7ace;
+  border-radius: 5px;
+  width: 173px;
+  height: 56px;
+  position: absolute;
+  left: 92px;
+  top: 523px;
+}
+.rectangle-8 {
+  background: #3f7ace;
+  border-radius: 5px;
+  width: 173px;
+  height: 56px;
+  position: absolute;
+  left: 127px;
+  top: 1379px;
+}
+.para-voc {
+  color: #0e0000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 104px;
+  top: 543px;
+  width: 168px;
+  height: 20px;
+}
+.para-voc2 {
+  color: #0e0000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 144px;
+  top: 1397px;
+  width: 178px;
+  height: 20px;
+}
+.rectangle-6 {
+  background: #1f1f1f;
+  width: 1440px;
+  height: 201px;
+  position: absolute;
+  left: 0px;
+  top: 711px;
+}
+.contas-internacionais-global-o-seu-patrim-nio-com-excel-ncia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 188px;
+  top: 783px;
+}
+.opere-day-trade-sem-custos-com-harpia-bank {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 603px;
+  top: 786px;
+}
+.conhe-a-as-melhores-solu-es-para-sua-empresa {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  left: 1061px;
+  top: 786px;
+}
+.imagem-do-whats-app-de-2025-08-26-s-17-34-42-b-11-b-30-bd-1 {
+  width: 83px;
+  height: 55px;
+  position: absolute;
+  left: 92px;
+  top: 770px;
+  object-fit: cover;
+  aspect-ratio: 83/55;
+}
+._41-b-54-ac-0-0573-49-ea-b-80-d-84-db-9222-a-0-a-4-1 {
+  width: 83px;
+  height: 55px;
+  position: absolute;
+  left: 507px;
+  top: 770px;
+  object-fit: cover;
+}
+._57030-c-4-b-4978-4338-a-6-ee-9-bb-712-e-24169-1 {
+  width: 65px;
+  height: 69px;
+  position: absolute;
+  left: 983px;
+  top: 760px;
+  object-fit: cover;
+}
+.educa-o-financeira {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 140px;
+  top: 1903px;
+}
+.mais-de-1-000-investimentos-ao-seu-alcance {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 127px;
+  top: 1072px;
+}
+.acesse-conte-dos-sobre-finan-as-investimentos-credito-e-mais-produzidos-pela-equipe-do-harpia-bank-e-aprimore-sua-educa-o-financeira {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 140px;
+  top: 2007px;
+  width: 894px;
+  height: 87px;
+}
+.se-precisar-de-ajuda-aqui-voc-ter-atendimento-humanizado-24-h-por-dia-7-dias-por-semana {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 127px;
+  top: 1237px;
+  width: 894px;
+  height: 87px;
+}
+.captura-de-tela-2025-08-26-210135-1 {
+  width: 380px;
+  height: 353px;
+  position: absolute;
+  left: 138px;
+  top: 2113px;
+  object-fit: cover;
+  aspect-ratio: 380/353;
+}
+.captura-de-tela-2025-08-26-205905-1 {
+  width: 377px;
+  height: 355px;
+  position: absolute;
+  left: 534px;
+  top: 2112px;
+  object-fit: cover;
+  aspect-ratio: 377/355;
+}
+.captura-de-tela-2025-08-26-210029-1 {
+  width: 377px;
+  height: 353px;
+  position: absolute;
+  left: 926px;
+  top: 2113px;
+  object-fit: cover;
+  aspect-ratio: 377/353;
+}
+.frame-1 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #215cb1;
+  border-width: 1px;
+  padding: 23px 64px 23px 64px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 377px;
+  height: 74px;
+  position: absolute;
+  left: 529px;
+  top: 2543px;
+}
+.conhe-a-o-harpia-bank {
+  color: #000000;
+  text-align: left;
+  font-family: "TiltWarp-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+}
+.image-9 {
+  width: 474px;
+  height: 316px;
+  position: absolute;
+  left: 911px;
+  top: 243px;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+.rectangle-26 {
+  width: 413px;
+  height: 398px;
+  position: absolute;
+  left: 79px;
+  top: 1495px;
+  overflow: visible;
+}
+.rectangle-31 {
+  width: 413px;
+  height: 398px;
+  position: absolute;
+  left: 513px;
+  top: 1495px;
+  overflow: visible;
+}
+.rectangle-30 {
+  width: 413px;
+  height: 398px;
+  position: absolute;
+  left: 956px;
+  top: 1495px;
+  overflow: visible;
+}
+.investimentos {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 119px;
+  top: 1576px;
+  width: 232px;
+}
+.banking {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 160px);
+  top: 1577px;
+  width: 128px;
+}
+.seguro {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 1015px;
+  top: 1571px;
+  width: 115px;
+  height: 29px;
+}
+.cuide-do-seu-dinhei-ro-r-pido-e-simples-com-o-harpia-bank-voc-tem-total-contro-le-das-suas-finan-as-pagamentos-i-stant-n-eos-cartas-digitais-e-solu-es-que-encaixam-no-seu-di-a-a-dia-tudo-planejado-para-f-acilitar-sua-vida {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 979px;
+  top: 1607px;
+  width: 370px;
+  height: 267px;
+}
+.image-10 {
+  width: 61px;
+  height: 61px;
+  position: absolute;
+  left: 97px;
+  top: 1507px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-11 {
+  width: 54px;
+  height: 57px;
+  position: absolute;
+  left: 536px;
+  top: 1511px;
+  object-fit: cover;
+  aspect-ratio: 54/57;
+}
+.image-12 {
+  width: 61px;
+  height: 65px;
+  position: absolute;
+  left: 993px;
+  top: 1503px;
+  object-fit: cover;
+  aspect-ratio: 61/65;
+}
+.invista-de-forma-simples-e-inteligente-aqui-voc-encontra-op-es-acess-veis-que-ajudam-a-construir-o-futuro-que-voc-sonha-comece-pequeno-pense-grande-e-veja-seu-dinheiro-crescer-junto-com-voc {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 97px;
+  top: 1631px;
+  width: 386px;
+  height: 228px;
+}
+.oferecemos-ferramentas-e-insights-necess-rios-para-que-voc-tome-decis-es-inteligentes-planeje-suas-economias-e-alcance-seus-objetivos-mais-do-que-transa-es-sobre-ter-um-parceiro-na-sua-jornada-para-a-estabilidade-e-realiza-o {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 534px;
+  top: 1613px;
+  width: 386px;
+  height: 228px;
+}
+.rectangle-29 {
+  background: #d9d9d9;
+  width: 4px;
+  height: 18px;
+  position: absolute;
+  left: 244px;
+  top: 1727px;
+}
+.rectangle-10 {
+  background: linear-gradient(
+    180deg,
+    rgba(223, 223, 223, 1) 0%,
+    rgba(6, 19, 41, 1) 2.9182802885770798%
+  );
+  width: 1440px;
+  height: 599px;
+  position: absolute;
+  left: 0px;
+  top: 2662px;
+}
+.investimentos2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 136px;
+  top: 2834px;
+}
+.investimentos3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 958px;
+  top: 3042px;
+}
+.capital-e-regi-o-metropolitanas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 232px;
+  top: 3043px;
+}
+.centro-de-atendimento {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 130px;
+  top: 2976px;
+}
+.o-que-est-buscando {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 134px;
+  top: 2766px;
+}
+.fale-conosco {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 666px;
+  top: 2760px;
+}
+.sac {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 542px;
+  top: 2976px;
+}
+._2025-harpia-bank-cnpj-00-000-000-0000-00 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 551px;
+  top: 3206px;
+}
+.perguntas-frequente {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 958px;
+  top: 2976px;
+}
+.capital-e-regi-o-metropolitanas2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 674px;
+  top: 3044px;
+}
+.demais-localidades {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 271px;
+  top: 3083px;
+}
+.defici-ncia-auditiva-ou-de-fala {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 676px;
+  top: 3087px;
+}
+.whatsapp {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 274px;
+  top: 3128px;
+}
+._4900-0000 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 130px;
+  top: 3043px;
+}
+._4900-000-0000 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 541px;
+  top: 3044px;
+}
+.atendimento-via-telefone-e-chat-do-aplicativo-24-horas-por-dia-7-dias-por-semana {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 707px;
+  top: 2820px;
+}
+.precat-rios {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 136px;
+  top: 2871px;
+}
+._4900-000-00002 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 130px;
+  top: 3084px;
+}
+._4900-000-00003 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 542px;
+  top: 3088px;
+}
+.seguros {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 248px;
+  top: 2871px;
+}
+._79-4900-0000 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 130px;
+  top: 3130px;
+}
+.hapiabank-souunit-com-br {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 542px;
+  top: 3129px;
+}
+.banking2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 248px;
+  top: 2834px;
+}
+.banking3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 958px;
+  top: 3087px;
+}
+.empresas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 360px;
+  top: 2834px;
+}
+.empresas2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 958px;
+  top: 3130px;
+}
+.line-12 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 2px 0 0 0;
+  width: 344px;
+  height: 0px;
+  position: absolute;
+  left: 132px;
+  top: 2803px;
+  transform-origin: 0 0;
+  transform: rotate(-0.175deg) scale(1, 1);
+}
+.line-13 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 2px 0 0 0;
+  width: 344px;
+  height: 0px;
+  position: absolute;
+  left: 130px;
+  top: 3013px;
+  transform-origin: 0 0;
+  transform: rotate(-0.175deg) scale(1, 1);
+}
+.line-14 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 2px 0 0 0;
+  width: 369px;
+  height: 0px;
+  position: absolute;
+  left: 541px;
+  top: 3013px;
+}
+.line-15 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 2px 0 0 0;
+  width: 344px;
+  height: 0px;
+  position: absolute;
+  left: 956px;
+  top: 3014px;
+  transform-origin: 0 0;
+  transform: rotate(-0.175deg) scale(1, 1);
+}
+.line-16 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 2px 0 0 0;
+  opacity: 0.66;
+  width: 774px;
+  height: 0px;
+  position: absolute;
+  left: 666px;
+  top: 2800.05px;
+  transform-origin: 0 0;
+  transform: rotate(0.069deg) scale(1, 1);
+}
+.line-17 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 1px 0 0 0;
+  width: 15.5px;
+  height: 0px;
+  position: absolute;
+  left: 224px;
+  top: 3044px;
+  transform-origin: 0 0;
+  transform: rotate(89.991deg) scale(1, 1);
+}
+.line-18 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 1px 0 0 0;
+  width: 15.5px;
+  height: 0px;
+  position: absolute;
+  left: 670px;
+  top: 3045px;
+  transform-origin: 0 0;
+  transform: rotate(89.991deg) scale(1, 1);
+}
+.line-19 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 1px 0 0 0;
+  width: 15.5px;
+  height: 0px;
+  position: absolute;
+  left: 263px;
+  top: 3086px;
+  transform-origin: 0 0;
+  transform: rotate(89.991deg) scale(1, 1);
+}
+.line-20 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 1px 0 0 0;
+  width: 15.5px;
+  height: 0px;
+  position: absolute;
+  left: 670px;
+  top: 3088px;
+  transform-origin: 0 0;
+  transform: rotate(89.991deg) scale(1, 1);
+}
+.line-21 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.66);
+  border-width: 1px 0 0 0;
+  width: 15.5px;
+  height: 0px;
+  position: absolute;
+  left: 263px;
+  top: 3131px;
+  transform-origin: 0 0;
+  transform: rotate(89.991deg) scale(1, 1);
+}
+.vector {
+  width: 2.08%;
+  height: 0.86%;
+  position: absolute;
+  right: 51.67%;
+  left: 46.25%;
+  bottom: 12.66%;
+  top: 86.48%;
+  overflow: visible;
+}
+.saiba-mais {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 97px;
+  top: 1855px;
+}
+.saiba-mais2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 534px;
+  top: 1855px;
+}
+.saiba-mais3 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 979px;
+  top: 1855px;
+}
+.rectangle-1 {
+  width: 1440px;
+  height: 92px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.para-voc3 {
+  color: #13131a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: fixed;
+  left: 304px;
+  top: 44px;
+  width: 122px;
+  height: 39px;
+}
+.para-voc4 {
+  color: #14140d;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: fixed;
+  left: 1260px;
+  top: 46px;
+  width: 63px;
+  height: 20px;
+}
+.para-voc5 {
+  color: #11110d;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: fixed;
+  left: 1344px;
+  top: 46px;
+  width: 60px;
+  height: 19px;
+}
+.image-3 {
+  width: 15px;
+  height: 15px;
+  position: fixed;
+  left: 556px;
+  top: 48px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-7 {
+  width: 15px;
+  height: 15px;
+  position: fixed;
+  left: 257px;
+  top: 48px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.o-harpia-bank {
+  color: #090a1a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: fixed;
+  left: 446px;
+  top: 44px;
+  width: 117px;
+  height: 23px;
+}
+.para-voc6 {
+  color: #090a1a;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: fixed;
+  left: 178px;
+  top: 44px;
+  width: 79px;
+  height: 25px;
+}
+.rectangle-3 {
+  background: #3f7ace;
+  border-radius: 3px;
+  width: 116px;
+  height: 30px;
+  position: fixed;
+  left: 1136px;
+  top: 40px;
+  aspect-ratio: 116/30;
+}
+.para-voc7 {
+  color: #0e0000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: fixed;
+  left: 1144px;
+  top: 46px;
+  width: 121px;
+  height: 20px;
+}
+.image-8 {
+  width: 9px;
+  height: 15px;
+  position: fixed;
+  left: 1331px;
+  top: 48px;
+  object-fit: cover;
+  aspect-ratio: 9/15;
+}
+.imagem-do-whats-app-de-2025-08-26-s-17-11-03-9350-b-33-b-1 {
+  width: 96px;
+  height: 96px;
+  position: fixed;
+  left: 31px;
+  top: 5px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.imagem-do-whats-app-de-2025-08-26-s-17-11-03-9350-b-33-b-2 {
+  width: 96px;
+  height: 96px;
+  position: fixed;
+  left: 76px;
+  top: 2566px;
+  aspect-ratio: 1;
+}

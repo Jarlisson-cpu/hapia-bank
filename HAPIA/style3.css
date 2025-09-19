@@ -1,0 +1,405 @@
+
+   a,
+   button,
+   input,
+   select,
+   h1,
+   h2,
+   h3,
+   h4,
+   h5,
+   * {
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       border: none;
+       text-decoration: none;
+       background: none;
+   
+       -webkit-font-smoothing: antialiased;
+   }
+   
+   menu, ol, ul {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+   }
+
+   .wireframe-1,
+.wireframe-1 * {
+  box-sizing: border-box;
+}
+.wireframe-1 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-19 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 318px;
+  height: 51px;
+  position: absolute;
+  left: 632px;
+  top: 380px;
+  aspect-ratio: 318/51;
+}
+.rectangle-20 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 318px;
+  height: 51px;
+  position: absolute;
+  left: 632px;
+  top: 510px;
+  aspect-ratio: 318/51;
+}
+.rectangle-22 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 318px;
+  height: 51px;
+  position: absolute;
+  left: 632px;
+  top: 745px;
+  aspect-ratio: 318/51;
+}
+.rectangle-23 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 318px;
+  height: 51px;
+  position: absolute;
+  left: 1062px;
+  top: 561px;
+  aspect-ratio: 318/51;
+}
+.rectangle-24 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 318px;
+  height: 51px;
+  position: absolute;
+  left: 1062px;
+  top: 380px;
+  aspect-ratio: 318/51;
+}
+.rectangle-21 {
+  background: #ffffff;
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 318px;
+  height: 51px;
+  position: absolute;
+  left: 636px;
+  top: 629px;
+  aspect-ratio: 318/51;
+}
+.imagem-do-whats-app-de-2025-08-26-s-17-11-03-9350-b-33-b-1 {
+  width: 116px;
+  height: 115px;
+  position: absolute;
+  right: 364px;
+  top: 13px;
+  object-fit: cover;
+  aspect-ratio: 116/115;
+}
+.harpia-bank {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 853px;
+  top: 140px;
+  width: 361px;
+  height: 114px;
+}
+.abra-sua-conta {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 844px;
+  top: 202px;
+  width: 379px;
+  height: 114px;
+}
+.nome-completo {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 636px;
+  top: 327px;
+  width: 211px;
+  height: 57px;
+}
+.nome-completo-span {
+  color: #000000;
+}
+.nome-completo-span2 {
+  color: #ff0000;
+}
+.e-mail {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1062px;
+  top: 333px;
+  width: 109px;
+  height: 57px;
+}
+.e-mail-span {
+  color: #000000;
+}
+.e-mail-span2 {
+  color: #ff0000;
+}
+.cpf {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 636px;
+  top: 474px;
+  width: 73px;
+  height: 57px;
+}
+.cpf-span {
+  color: #000000;
+}
+.cpf-span2 {
+  color: #ff0000;
+}
+.pa-s-de-resid-ncia {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 636px;
+  top: 578px;
+  width: 243px;
+  height: 57px;
+}
+.pa-s-de-resid-ncia-span {
+  color: #000000;
+}
+.pa-s-de-resid-ncia-span2 {
+  color: #ff0000;
+}
+.celular {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 637px;
+  top: 702px;
+  width: 243px;
+  height: 57px;
+}
+.celular-span {
+  color: #000000;
+}
+.celular-span2 {
+  color: #ff0000;
+}
+.senha {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1062px;
+  top: 487px;
+  width: 109px;
+  height: 57px;
+}
+.senha-span {
+  color: #000000;
+}
+.senha-span2 {
+  color: #ff0000;
+}
+.comece-aqui-leva-poucos-minutos {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 24px;
+  line-height: 118.98%;
+  font-weight: 300;
+  position: absolute;
+  left: 823px;
+  top: 262px;
+  width: 391px;
+  height: 57px;
+}
+.digite-seu-nome-completo {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 646px;
+  top: 395px;
+  width: 304px;
+  height: 41px;
+}
+.digite-seu-cpf {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 646px;
+  top: 525px;
+  width: 304px;
+  height: 41px;
+}
+.digite-seu-n-mero {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 646px;
+  top: 760px;
+  width: 304px;
+  height: 41px;
+}
+.ex-384021 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 1076px;
+  top: 576px;
+  width: 304px;
+  height: 41px;
+}
+.digite-seu-e-mail {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 1076px;
+  top: 395px;
+  width: 304px;
+  height: 41px;
+}
+.use-6-a-8-digitos-sem-n-meros-repetidos-ou-em-sequ-ncia {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  position: absolute;
+  left: 1062px;
+  top: 519px;
+  width: 360px;
+  height: 49px;
+}
+.brasil {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 650px;
+  top: 644px;
+  width: 304px;
+  height: 41px;
+}
+.ao-continuar-voc-autoriza-a-consulta-e-o-registro-dos-seus-dados-no-sistema-de-informa-es-do-harpia-banke-tamb-m-esta-de-acordo-com-a-politica-de-privacidade-do-hapia-bank {
+  text-align: left;
+  font-family: "Inter-Light", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  position: absolute;
+  left: 636px;
+  top: 883px;
+  width: 751px;
+  height: 54px;
+}
+.ao-continuar-voc-autoriza-a-consulta-e-o-registro-dos-seus-dados-no-sistema-de-informa-es-do-harpia-banke-tamb-m-esta-de-acordo-com-a-politica-de-privacidade-do-hapia-bank-span {
+  color: #000000;
+}
+.ao-continuar-voc-autoriza-a-consulta-e-o-registro-dos-seus-dados-no-sistema-de-informa-es-do-harpia-banke-tamb-m-esta-de-acordo-com-a-politica-de-privacidade-do-hapia-bank-span2 {
+  color: #154590;
+}
+.rectangle-8 {
+  background: #3f7ace;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-width: 1px;
+  width: 795px;
+  height: 56px;
+  position: absolute;
+  left: 636px;
+  top: 950px;
+}
+.para-voc {
+  color: #0e0000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 987px;
+  top: 968px;
+  width: 92px;
+  height: 20px;
+}
+.image-3 {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 925px;
+  top: 648px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.foto-vertical-de-uma-empresaria-de-sucesso-sentada-ao-ar-livre-no-parque-trabalhando-em-seu-projeto-usando-mobi-1 {
+  width: 596px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
